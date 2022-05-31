@@ -1,8 +1,7 @@
-# Muffin-Page
-Front page built in HTML &amp; CSS regarding muffins
+# Flag-Site
+Front page built in HTML and CSS in regards to some of the flags in the world.
 
-
-Photos from:
+Images from:
 - Brett Sayles
 - Ingo Joseph
 - Trey Musk
